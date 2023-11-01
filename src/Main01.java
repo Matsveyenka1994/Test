@@ -24,6 +24,7 @@ public class Main01 {
 
   public static void main(String[] args) {
     int[] arr = {4, 8, 1, 2, 3};
+    System.out.println("Число из массива: ");
     System.out.println(concat(arr));
   }
 }
